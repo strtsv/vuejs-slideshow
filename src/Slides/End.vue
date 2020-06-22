@@ -7,7 +7,7 @@
 
 <script>
     export default {
-        name: "Start"
+        name: "End"
     }
 </script>
 

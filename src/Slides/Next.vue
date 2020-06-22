@@ -12,7 +12,7 @@
 
 <script>
 export default {
-  name: "Start",
+  name: "Next",
 };
 </script>
 

@@ -11,7 +11,7 @@
 
 <script>
 export default {
-  name: "Start",
+  name: "Next2",
 };
 </script>
 
